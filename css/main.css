@@ -1,0 +1,17 @@
+body {
+    background: rgb(137, 187, 92) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+    min-height: 600px;
+}
+
+.navbar-brand {
+    color: rgb(137, 187, 92) !important;
+}
+
+a {
+    color: #48653E;
+}
